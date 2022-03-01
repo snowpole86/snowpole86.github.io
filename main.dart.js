@@ -33379,7 +33379,7 @@ o=A.mK(r,A.br(s,new A.qA(q,s),A.aD(255,255,250,240),s,p,s,B.ef,o))
 r=q<=1200?q/2-45:230
 return A.lF(B.I,A.a([o,A.nU(s,A.br(s,A.mK(B.jV,A.br(s,B.CW,s,B.tN,s,s,s,s)),s,B.tP,s,s,s,s),s,s,r,s,-25,s)],t.E),B.y,B.bi)}}
 A.qA.prototype={
-aE(){return new A.Fp(A.a(["assets/images/info.jpg","assets/images/data.PNG","assets/images/booklet.png","assets/images/tofle.png","assets/images/GRE.png","assets/images/toeic_result.jpg","assets/images/jlpt.jpg"],t.s),new A.Mw(new A.aS(new A.a2($.U,t.dX),t.Fe)),B.l)}}
+aE(){return new A.Fp(A.a(["assets/images/info.jpg","assets/images/data.png","assets/images/booklet.png","assets/images/tofle.png","assets/images/gre.png","assets/images/toeic_result.jpg","assets/images/jlpt.jpg"],t.s),new A.Mw(new A.aS(new A.a2($.U,t.dX),t.Fe)),B.l)}}
 A.Fp.prototype={
 b2(){var s,r,q=this
 q.bC()
