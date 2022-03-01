@@ -1,6 +1,6 @@
 {
-    "name": "carrot_market",
-    "short_name": "carrot_market",
+    "name": "cv",
+    "short_name": "cv",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
