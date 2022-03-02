@@ -33381,7 +33381,7 @@ r=q<=1200?q/2-45:230
 return A.lF(B.I,A.a([n,A.nU(s,A.br(s,A.mK(B.jU,A.br(s,B.CU,s,B.tL,s,s,s,s)),s,B.tN,s,s,s,s),s,s,r,s,-25,s)],t.E),B.y,B.bi)}}
 A.qA.prototype={
 aE(){var s="assets/images/info.jpg",r="assets/images/data.png",q="assets/images/booklet.png",p="assets/images/tofle.png",o="assets/images/gre.png",n="assets/images/toeic_result.jpg",m="assets/images/jlpt.jpg",l=t.N
-return new A.Fp(A.a([s,r,q,p,o,n,m],t.s),A.aN([s,"2021 \ub300\ud55c\ubbfc\uad6d \uc815\ubcf4\uad50\uc721\uc0c1",r,"\uc81c51\ud68c \uc804\uad6d\uc790\ub8cc\uc804(2\ub4f1\uae09)",q,"\uc778\uacf5\uc9c0\ub2a5 \uad50\uc721 \uacf5\ub3d9 \uc800\uc11c",p,"\ud1a0\ud50c(2021.7.)",o,"GRE(2021.12.)",n,"\ud1a0\uc775(2022.2.)",m,"JLPT 1\uae09(2009.1.) "],l,l),new A.Mw(new A.aT(new A.a2($.U,t.dX),t.Fe)),B.l)}}
+return new A.Fp(A.a([s,r,q,p,o,n,m],t.s),A.aN([s,"2021 \ub300\ud55c\ubbfc\uad6d \uc815\ubcf4\uad50\uc721\uc0c1",r,"\uc81c51\ud68c \uc804\uad6d\uc790\ub8cc\uc804(2\ub4f1\uae09)",q,"\uc778\uacf5\uc9c0\ub2a5 \uad50\uc721 \uacf5\ub3d9 \uc800\uc11c",p,"\ud1a0\ud50c 99 (2021.7.)",o,"GRE 152/162/3.5 (2021.12.)",n,"\ud1a0\uc775 940 (2022.2.)",m,"JLPT 1\uae09(2009.1.) "],l,l),new A.Mw(new A.aT(new A.a2($.U,t.dX),t.Fe)),B.l)}}
 A.Fp.prototype={
 b2(){var s,r,q=this
 q.bC()
