@@ -33452,7 +33452,7 @@ $S:0}
 A.TN.prototype={
 $0(){var s=0,r=A.a8(t.H)
 var $async$$0=A.a9(function(a,b){if(a===1)return A.a5(b,r)
-while(true)switch(s){case 0:A.a3J("mailto:snowpole86@gmail.com?subject=need help?&body=How can I help you?")
+while(true)switch(s){case 0:A.a3J("mailto:seoljoo.kang@gmail.com?subject=need help?&body=How can I help you?")
 return A.a6(null,r)}})
 return A.a7($async$$0,r)},
 $S:32}
