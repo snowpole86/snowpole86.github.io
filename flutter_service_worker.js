@@ -3,7 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "fef7f894bfc2d743d416d7e41df5729e",
+  "assets/AssetManifest.json": "ae00f1670a9c09a8071eaec584a3ef5e",
+"assets/assets/images/agre.PNG": "6467348efb01b96ca23af893737355c5",
+"assets/assets/images/ajlpt.PNG": "a784b89d671b3ed411227ba0df2a1483",
+"assets/assets/images/atoeic.PNG": "b9c8770229a2155f5c4566a8c73d4f0d",
+"assets/assets/images/atofle.PNG": "9cef24dca256127fc48b4648d5226af5",
+"assets/assets/images/award1.PNG": "efa9dbcb41f122b60b1f22d4f25af3bc",
+"assets/assets/images/award2.PNG": "a9693c12e4ed3bebfa40589aec7d6e25",
 "assets/assets/images/award_background.png": "dd492f221655cd17b68af63fa2b4e4d5",
 "assets/assets/images/award_background2.png": "b561c80b80c1fca7f5b2bb05d098f5d9",
 "assets/assets/images/background_code.jpg": "05852b431142143e4eeb2d1207479a4e",
@@ -15,6 +21,7 @@ const RESOURCES = {
 "assets/assets/images/profile.png": "47f498d9ffb59dceb19a2bab220dcbf1",
 "assets/assets/images/project01.png": "a9d9c2ec6568c52ecd7264111c6fd949",
 "assets/assets/images/project02.png": "714db5146a93fc77b7d548618c5a7b08",
+"assets/assets/images/test.pptx": "ef4b6264a46c2520b45ae3d0ea2a9db9",
 "assets/assets/images/toeic_result.jpg": "4f78a4aa597182d6f755d7402e132ef4",
 "assets/assets/images/tofle.png": "f2b8323a25f2e24e56d030062bb7342f",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -30,9 +37,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "a68cfd8a3f134dff4b4ac1777e3f5669",
-"/": "a68cfd8a3f134dff4b4ac1777e3f5669",
-"main.dart.js": "52cea5b01b443c49f38d4a60ad10b376",
+"index.html": "e223f58c0a33f1ebe3307dee872543d0",
+"/": "e223f58c0a33f1ebe3307dee872543d0",
+"main.dart.js": "99dd83549fd4717f413e258a86eb3124",
 "manifest.json": "3f5cc1422384871cb04bfcbe05618047",
 "version.json": "753a77ab84c26f016b75729c469df551"
 };
