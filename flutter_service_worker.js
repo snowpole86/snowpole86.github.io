@@ -3,12 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "79249c3f5061aea50ca225b16d2985ec",
+  "assets/AssetManifest.json": "54533268e991c49163d4940d39bee256",
 "assets/assets/images/agre.PNG": "6467348efb01b96ca23af893737355c5",
 "assets/assets/images/atoeic.PNG": "b9c8770229a2155f5c4566a8c73d4f0d",
 "assets/assets/images/atofle.PNG": "9cef24dca256127fc48b4648d5226af5",
-"assets/assets/images/award1.PNG": "efa9dbcb41f122b60b1f22d4f25af3bc",
-"assets/assets/images/award2.PNG": "a9693c12e4ed3bebfa40589aec7d6e25",
+"assets/assets/images/award1.PNG": "a9693c12e4ed3bebfa40589aec7d6e25",
+"assets/assets/images/award2.PNG": "efa9dbcb41f122b60b1f22d4f25af3bc",
 "assets/assets/images/award_background.png": "dd492f221655cd17b68af63fa2b4e4d5",
 "assets/assets/images/award_background2.png": "b561c80b80c1fca7f5b2bb05d098f5d9",
 "assets/assets/images/background_code.jpg": "05852b431142143e4eeb2d1207479a4e",
@@ -29,8 +29,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1e73bacb3c0e4d96b8be7a9784a89dc5",
-"/": "1e73bacb3c0e4d96b8be7a9784a89dc5",
+"index.html": "91ead985a5ff9b3451fc343b6afd1c14",
+"/": "91ead985a5ff9b3451fc343b6afd1c14",
 "main.dart.js": "04325fbd8f8343f8b86a5d75c0075685",
 "manifest.json": "3f5cc1422384871cb04bfcbe05618047",
 "version.json": "753a77ab84c26f016b75729c469df551"
