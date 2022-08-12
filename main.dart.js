@@ -33426,7 +33426,7 @@ r=o.length
 return new A.Bb(new A.Xk(!0,!0,!0,o,s),q,B.bk,!1,q,!0,B.to,!1,q,r,B.aw,B.DA,q,B.U,q)}}
 A.qk.prototype={
 N(a,b){var s=null,r=this.c,q=r>550,p=q?40:20,o=q?600:470
-q=q?790:450
+q=q?750:450
 o=A.mH(B.bl,A.cr(s,new A.qC(s),B.ea,s,q,s,new A.aK(p,p,p,p),o))
 r=r<=1200?r/2-130:130
 return A.lC(B.I,A.a([o,A.nR(s,A.cr(s,A.mH(B.bl,A.cr(s,B.D4,s,B.tU,s,s,s,s)),s,B.tX,s,s,s,s),s,s,r,s,-25,s)],t.E),B.y,B.bf)}}
@@ -33469,7 +33469,7 @@ N(a,b){var s=null,r=this.c>1200,q=r?300:420,p=r?480:0,o=r?30:0
 return A.lx(A.kB(A.a([B.F3,new A.dm(new A.aK(p,o,0,0),A.ej("Seol-Joo Kang",A.oU(s,s,B.j,s,s,s,s,s,s,s,s,r?100:40,s,B.az,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),B.Jk],t.E),B.aa,B.aD),q,s)}}
 A.u_.prototype={
 N(a,b){var s,r=null,q=new A.TR(this),p=this.c>550,o=p?50:20,n=p?600:470
-p=p?790:990
+p=p?750:940
 s=t.E
 return A.lC(B.I,A.a([A.mH(B.bl,A.cr(r,A.kB(A.a([B.F2,A.o4(A.a([new A.dm(B.y2,A.ej("Welcome ",A.aX(b).a4.a,r,r),r),new A.dm(B.y8,A.o4(A.a([new A.AK(50,new A.rC(B.yr,r),B.as,new A.TQ(new A.TP()),r)],s),B.aa,B.aD,B.aW),r)],s),B.aa,B.C8,B.aW),A.ej("A primary school teacher in South Korea with software development ability",A.aX(b).a4.z,r,r),B.ju,new A.dm(B.kE,A.ej("Major Career",A.aX(b).a4.a,r,r),r),A.ej("- M.S., AI Education in Daegu Nation University of Education, Graduate school (Expected 2023)\n- B.S., Daegu National University of Education (Feb 2012)\n- DNUE, Artificial Intelligence Education Lab (2021-Present)\n- DNUE, School Research Team (2022-2023)\n- DNUE, School Policy Research Team (2021-2022)\n- Daegu Metropolitan Office of Education (2020-2021)\n- Daegu Institute for Creativity & Convergence Education (2020-Present)\n- Serving as a teacher in Daegu, South Korea (Sep 2012-Present)\n- KATUSA, 8th U.S. Army Engineers, YongsanGarrison (2007-2009)\n\n",A.aX(b).a4.z,r,r),new A.dm(B.kE,A.ej("Skills",A.aX(b).a4.a,r,r),r),new A.EY(A.a([q.$2("Python",B.as),q.$2("JavaScript",B.as),q.$2("Google Script",B.as),q.$2("Flutter",B.as),q.$2("Firebase",B.as),q.$2("VBA in Excel",B.as),q.$2("C# with Unity",B.as),q.$2("Blender",B.as),q.$2("DeepLearning",B.as),q.$2("Korean / English / Japanese",B.eW),q.$2("forthcoming",B.CC)],s),r)],s),B.br,B.aD),B.ea,r,p,r,new A.aK(o,o,o,o),n)),A.nR(r,A.cr(r,A.mH(B.bl,A.AL("assets/images/profile.png",r,r,350)),r,B.tT,r,r,r,r),r,r,r,r,-280,r)],s),B.y,B.bf)}}
 A.TR.prototype={
